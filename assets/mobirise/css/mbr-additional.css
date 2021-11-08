@@ -1060,19 +1060,19 @@ a {
   text-align: center;
 }
 .cid-sNDYdk9rUa {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-sNDYdk9rUa .mbr-overlay {
   background: #fafafa;
-  opacity: 0.6;
+  opacity: 0.5;
 }
 .cid-sNDYdk9rUa img,
 .cid-sNDYdk9rUa .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: cover;
 }
 .cid-sNDYdk9rUa .item:focus,
