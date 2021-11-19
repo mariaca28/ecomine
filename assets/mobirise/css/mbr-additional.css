@@ -2855,6 +2855,9 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
+.cid-sObWjoGB0y .iconfont-wrapper {
+  border-radius: 0 !important;
+}
 .cid-sObWjoGB0y [class^="socicon-"]:before,
 .cid-sObWjoGB0y [class*=" socicon-"]:before {
   line-height: 55px;
